@@ -5,7 +5,7 @@
 Clone the repository and install all dependencies:
 
 ```
-git clone git@github.com:J0shuaFernandes/speech-indicators.git
-cd speech-indicators 
+git clone git@github.com:J0shuaFernandes/speech-event-detection.git
+cd speech-event-detection 
 pip3 install -r requirements.txt
 ```
