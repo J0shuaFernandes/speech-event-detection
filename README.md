@@ -1,5 +1,5 @@
 # speech-event-detection
- A script that can detect several speech events
+ A program that can detect several speech events
 
  This script can detect/count the following:
 
